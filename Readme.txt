@@ -2,12 +2,6 @@ Ain Shams University - Faculty of Engineering
 CSE316 Microcontrollers and Interfacing
 Fall 2020
 
-Team Members
-Shady Adel Ezzat Fahmy - 19P5956
-Youmna Mohamed Mahmoud Ali - 18P7241
-Dahlia Tarek AbdelFattah Ahmad Ghonim - 19P2114
-
-
 Traffic Light Controller
 The system consists of two car traffic lights and two pedestrain traffic lights; one pedestrain traffic light with each car traffic light.
 One car traffic light allows cars to move from north to south, and the other allows cars to move from east to west. The car traffic light is 
